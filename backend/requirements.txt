@@ -1,0 +1,9 @@
+python-dotenv
+fastapi
+sqlalchemy
+uvicorn
+pdfplumber
+langchain-groq
+python-dotenv
+pydantic
+langchain-groq

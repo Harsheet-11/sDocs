@@ -1,0 +1,35 @@
+# SECRET FILES - API keys, passwords - NEVER commit these
+.env
+.env.local
+.env.production
+
+# PYTHON STUFF
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment - your local Python packages
+venv/
+env/
+.venv/
+
+# SQLite database file - contains your local test data
+*.db
+*.sqlite
+*.sqlite3
+
+# Uploaded PDF files - too large for git
+uploads/
+temp_uploads/
+
+# macOS system files
+.DS_Store
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+logs/
