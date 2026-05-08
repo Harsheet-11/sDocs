@@ -33,3 +33,6 @@ temp_uploads/
 # Logs
 *.log
 logs/
+
+# PDF
+*.pdf
